@@ -28,6 +28,6 @@ class Registration:
             
 if __name__ == "__main__":
     GuestBook = Registration()
-    GuestBook.AddingMember("Ksenia", "Vehov", 20, "ksen@gmail.com")
+    GuestBook.AddingMember("Kirill", "Shakhov", 20, "shakhov9200@mail.ru")
     GuestBook.AddingMember("IaIaIa", "Foool", 200, "iafoool@gmail.com")
     GuestBook.RecordFile()
